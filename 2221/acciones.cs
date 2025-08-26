@@ -14,18 +14,18 @@ namespace _2221
           return a + b;
         }
 
-        public int resta(int a, int b)
+        public int resta(int c, int d)
         {
-            return a - b;
+            return c - d;
         }
 
-        public int multiplicacion(int a, int b)
+        public int multiplicacion(int e, int f)
         {
-            return a * b;
+            return e * f;
         }
-        public int division(int a, int b)
+        public double division(double p, double m)
         {
-            return a / b;
+            return p / m;
         }
       
 
